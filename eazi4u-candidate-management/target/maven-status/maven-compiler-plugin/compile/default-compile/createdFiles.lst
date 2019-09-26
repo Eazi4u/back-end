@@ -1,0 +1,7 @@
+com/boot/config/PersistenceConfiguration.class
+com/boot/controller/CandidateController.class
+com/boot/controller/HomeController.class
+com/boot/repository/CandidateRepository.class
+com/boot/model/Candidate.class
+com/boot/controller/CandidateStub.class
+com/boot/App.class

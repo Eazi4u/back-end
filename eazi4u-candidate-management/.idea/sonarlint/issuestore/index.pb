@@ -1,0 +1,23 @@
+
+n
+>src/test/java/com/boot/CandidateRepositoryIntegrationTest.java,1/a/1a5d0384ebad2f1a29b0fb74ee892b9e5d30e06a
+q
+Asrc/test/java/com/boot/CandidateControllerWebIntegrationTest.java,0/8/08624ac8b0aba25e6abf765a5acccd2d0605c328
+S
+#src/test/java/com/boot/AppTest.java,0/6/06fb354300d8c9d1649aac06478aa43aeb2ab363
+c
+3src/test/java/com/boot/CandidateControllerTest.java,0/0/00fc77d81aa68e3a9bca502e2e2314f8d3b83a32
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+k
+;src/main/java/com/boot/config/PersistenceConfiguration.java,b/a/ba755d00ca16f62b7bfba60bb49be71189b7db38
+j
+:src/main/java/com/boot/controller/CandidateController.java,1/9/19bcc49d2be7247b56656aae22ba75f31fb2f87b
+j
+:src/main/java/com/boot/repository/CandidateRepository.java,3/6/36c8bd2b018f782d2e9a0ac476a2f000b88bf15a
+e
+5src/main/java/com/boot/controller/HomeController.java,e/5/e58ea9cef728ed5b9e9679d0ccc5cb53967d9d33
+d
+4src/main/java/com/boot/controller/CandidateStub.java,e/c/eca132b39d3c8dae0e0a48a1cef2ff841009b5e6
+O
+src/main/java/com/boot/App.java,d/b/db35d43cf74b67937e41f37c95ab80b78226f4d0
